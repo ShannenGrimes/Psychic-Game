@@ -1,3 +1,5 @@
+Link to live site (Url): https://shannengrimes.github.io/Psychic-Game/.
+
 # Psychic-Game
 How Psychic are you?  Let's find out.  Play the guessing game.
 
