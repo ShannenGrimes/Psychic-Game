@@ -1,0 +1,38 @@
+html {
+    height: 100%;
+    margin: 30px;
+    text-align: center;
+    background-color: purple;
+}
+
+body {
+    font-family: 'Open Sans', sans-serif;
+    font-family: 'Luckiest Guy', cursive;
+    background-color: aqua;
+    Text-align: center;
+    background-size: cover;
+    background-position: center 50%;
+    background-repeat: no-repeat;
+}
+
+.row {
+    display: float;
+    display: auto;
+    margin-right: -15px;
+    margin-left: -15px;
+    margin-top: -15px;
+    padding-top: -15px;
+    color: darkslategray;
+    background-color: antiquewhite;
+}
+
+.container-fluid {
+    width: 100%;
+    padding-right: -50px;
+    padding-left: -50px;
+    padding-top: -50px;
+    margin-right: auto;
+    margin-left: auto;
+    text-align: center;
+    color: plum;
+}
